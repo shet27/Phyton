@@ -19,7 +19,7 @@ canvas3 = [[(-60, -220), (-80, -240), (-110, -220), (-120, -250), (-90, -280), (
            (0, -220)]]
 
 turtle.hideturtle()
-turtle.bgcolor('#8B0000') 
+turtle.bgcolor('#8B0000') //for red color//
 turtle.setup(500, 600)
 turtle.title("I AM IRONMAN")
 canvas1Goto = (0, 120)
@@ -32,7 +32,7 @@ def logo(a, b):
     turtle.penup()
     turtle.goto(b)
     turtle.pendown()
-    turtle.color('#fab104')  
+    turtle.color('#fab104') //for yellow color //
     turtle.begin_fill()
 
     for i in range(len(a[0])):
