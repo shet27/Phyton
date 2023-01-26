@@ -1,7 +1,7 @@
   #1.To run this code u need to download code editor of ur choice 
   #2.Create a python file with an ending .py extension
   #3.Copy the belove code and paste it in your file
-  #4.If the code doesnt work then reinstall using code "pip install turtle"
+  #4.If the code doesnt work then reinstall using code of "pip install turtle"
   #5.Now run the code bocz all the nessesary setup has been done 
 import turtle
 
