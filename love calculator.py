@@ -6,7 +6,7 @@ name2 = input("What is their name? \n")
 l_name1=name1.lower()
 l_name2=name2.lower()
 
-t_t=l_name1.count('t')+l_name1.count('u')+l_name1.count('r')+l_name1.count('e')+l_name2.count('t')+l_name2.count('u')+l_name2.count('r')+l_name2.count('e')
+t_t=l_name1.count('t')+l_name1.count('u')+l_name1.count('r')+l_name1.count('e')+l_name2.count('t')+l_name2.count('u')+l_name2.count('r')+l_name2.count('e') #sum of ASCII values
 
 t_l=l_name1.count('l')+l_name1.count('0')+l_name1.count('v')+l_name1.count('e')+l_name2.count('l')+l_name2.count('0')+l_name2.count('v')+l_name2.count('e')
 
