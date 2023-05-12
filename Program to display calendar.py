@@ -1,6 +1,6 @@
-# Phyton Program to display calendar of the given month and year
+#Phyton Program to display calendar of the given month and year
 
-# importing calendar module
+#importing calendar module
 import calendar
 
 yy = 2014  #year
